@@ -168,7 +168,9 @@ p{margin:0 0 14px}
 .logo-st .lz-tlo{fill:#fff}
 .logo-st .lz-mw{fill:var(--granat2)}
 .logo-st .logo-txt small{color:#A7B6C9}
-.st-kol{min-width:0;overflow-wrap:anywhere}
+.st-kol{min-width:0}
+.st-kol p{overflow-wrap:anywhere}
+.logo-txt b{white-space:nowrap}
 .st-kol p{margin:0 0 12px}
 .stopka-dol{display:flex;flex-wrap:wrap;gap:10px 24px;align-items:center;justify-content:space-between;padding-top:22px;font-size:14px}
 .stopka-dol .wylinka-badge{color:#A7B6C9}
